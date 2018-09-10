@@ -20,7 +20,7 @@ public class BinarySearchJOptionPane2angka {
         data = new int[jlh];
         for (int a = 0; a < jlh; a++) {
             data[a] = new Random().nextInt(201);    //    Data di isi secara random dengan nilai tertinggi 200
-        }
+        } 
         //	Menampilkan data sebelum di sorting
         System.out.print("\nData    : ");
         for (int x = 0; x < data.length; x++) {
