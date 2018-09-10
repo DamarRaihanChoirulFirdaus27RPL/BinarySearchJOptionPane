@@ -4,7 +4,7 @@ import java.util.Scanner;
 import javax.swing.JOptionPane;
 import java.util.Random;
 
-public class BinarySearchJOptionPane2angka {
+public class BinarySearchJOptionPane2angka { 
 
     public static int[] data = null;
     public static int awal, tengah, akhir, temp, count, jlh, cari, cari2, awal2, tengah2, akhir2, temp2, count2;
